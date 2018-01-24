@@ -5,7 +5,7 @@
 ## Conditional display 
 * React : use `&&`. OR `?:` or `if else`
 * Angular : use `ng-if`
-  * Worth mentioning that it is very common to see miss the fact that some item is *visible or not* because the `ng-if` gets hidden as it is not the *start* of the statement. (compare `if (foo) div` vs. `div if(foo)`)
+  * Worth mentioning that it is very common to visually miss the fact that some item will be *rendered or not* because the `ng-if` gets hidden as it is not the *start* of the statement. (compare `if (foo) div` vs. `div if(foo)`)
 
 ## Choose between multiple views
 * React: use `switch` 
