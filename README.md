@@ -18,7 +18,7 @@
 * React use `addEventListener` / `removeEventListener`
 * Angular : Use angular specific apis. [ref](https://stackoverflow.com/questions/36123380/global-events-window-onresize-didnt-change-the-local-variables-value/36135449#36135449)
 
-## Intellisence 
+## Intellisense 
 * React: Built into TypeScript.
 * Angular: Seperate plugin by the angular team.
 
