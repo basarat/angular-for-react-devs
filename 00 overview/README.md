@@ -15,3 +15,6 @@ A very simple and effective mental model to have:
 * React will take these new `VNodes`, diff them to the previous `VNodes` and apply changes in VNodes to the actual DOM it has rendered before. 
 
 ## What angular does
+
+* You create templates and classes (components) that attach logic to these templates 
+* Whenever there is a change in the data controlled by an instance of the component class changes, angular will re-render the template portions that need updating intelligently.
