@@ -13,18 +13,18 @@
 
 ## For loop 
 * React: use `.map` on your arrays
-* `ng-for`
+* Angular: `ng-for`
 
 ## Global Handlers 
 * React use `addEventListener` / `removeEventListener`
-* Angular : Use angular specific apis. [ref](https://stackoverflow.com/questions/36123380/global-events-window-onresize-didnt-change-the-local-variables-value/36135449#36135449)
+* Angular: Use angular specific apis. [ref](https://stackoverflow.com/questions/36123380/global-events-window-onresize-didnt-change-the-local-variables-value/36135449#36135449)
 
 ## Intellisense 
 * React: Built into TypeScript.
 * Angular: Seperate plugin by the angular team.
 
-## Formatters 
-pipes (Just use JavaScript functions that are completely independent of framework)
+## Pipes 
+Formatters (Just use JavaScript functions that are completely independent of framework)
 
 ## HTML Reuse
 * Here is a piece of HTML that you need to duplicate. Do it in React, Do it in Angular
