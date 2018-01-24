@@ -1,18 +1,20 @@
 # TODO: 
-* ng-if
-* ng-switch
 * ng-click
 
 # Abstract chores
 ## Conditional display 
 * React : use `&&`. OR `?:` or `if else`
 * Angular : use `ng-if`
+  * Worth mentioning that it is very common to see miss the fact that some item is *visible or not* because the `ng-if` gets hidden as it is not the *start* of the statement. (compare `if (foo) div` vs. `div if(foo)`)
+
+## Choose between multiple views
+* React: use `switch` 
+* Angular: ng-switch
+
 
 ## For loop 
 * React: use `.map` on your arrays
 * ng-for
-  * worth mentioning that ng-for public api has changed e.g. NgFor to NgForOf
-
 
 ## Global Handlers 
 * React use `addEventListener` / `removeEventListener`
