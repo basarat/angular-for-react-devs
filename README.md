@@ -9,12 +9,11 @@
 
 ## Choose between multiple views
 * React: use `switch` 
-* Angular: ng-switch
-
+* Angular: `ng-switch`
 
 ## For loop 
 * React: use `.map` on your arrays
-* ng-for
+* `ng-for`
 
 ## Global Handlers 
 * React use `addEventListener` / `removeEventListener`
