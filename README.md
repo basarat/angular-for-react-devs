@@ -10,7 +10,8 @@
 
 ## For loop 
 * React: use `.map` on your arrays
-* ng-for (worth mentioning that ng-for language can change without corresponding tooling updates). 
+* ng-for
+  * worth mentioning that ng-for public api has changed e.g. NgFor to NgForOf
 
 
 ## Global Handlers 
